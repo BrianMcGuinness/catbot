@@ -73,4 +73,7 @@ body {
   text-shadow: 0 2px 14px rgba(0, 0, 0, 0.85);
 }
 
+a:link{color: #ffffff;}
 a:visited{color: #ffffff;}
+a:hover{color: #ffffff;}
+a:active{color: #ffffff;}
